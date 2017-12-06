@@ -1,0 +1,1 @@
+/boot/opts/acl/lib_acl/samples/split_c/build/CMakeFiles/fifo.dir
